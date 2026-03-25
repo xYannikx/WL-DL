@@ -1,6 +1,6 @@
 <div align="center">
   <img src="WL-DL/icon.ico" width="128" alt="WL-DL Icon">
-  <h1>WL-DL (WoltLab Package Downloader)</h1>
+  <h1>WL-DL</h1>
   <p><strong>A bilingual, lightweight Windows tool for fetching and backing up WoltLab packages.</strong></p>
 </div>
 
